@@ -15,7 +15,7 @@ public class Javatutorial {
      */
     public static void main(String[] args) 
     {
-        System.out.println("Welcome to Git Programming");
+        System.out.println("Welcome to Git ");
 
     }
     
